@@ -18,9 +18,11 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^7.0.0"
+    "electron": "^7.0.0",
+    "electron-winstaller": "^4.0.0"
   },
   "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
     "element-ui": "^2.12.0",
     "getmac": "^1.4.6",
     "ipc": "0.0.1"
